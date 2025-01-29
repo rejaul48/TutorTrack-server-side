@@ -75,7 +75,7 @@ Step-by-step instructions to set up the project locally.
 
 ```bash
 # Clone the repository
-https://github.com/programming-hero-web-course2/b10a11-server-side-rejaul48.git
+https://github.com/rejaul48/TutorTrack-server-side.git
 
 # Navigate to the project directory
 cd your_repository
